@@ -22,7 +22,7 @@ http://localhost:8080/api/v1/people
 ```
 
 
-São necessários os seguintes pré-requisitos para a execução do projeto desenvolvido durante a aula:
+São necessários os seguintes pré-requisitos para a execução do projeto.
 
 * Java 11 ou versões superiores.
 * Maven 3.6.3 ou versões superiores.
@@ -30,7 +30,6 @@ São necessários os seguintes pré-requisitos para a execução do projeto dese
 * Controle de versão GIT instalado na sua máquina.
 * Conta no GitHub para o armazenamento do seu projeto na nuvem.
 * Conta no Heroku para o deploy do projeto na nuvem
-* Muita vontade de aprender e compartilhar conhecimento :)
 
 Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:
 
@@ -46,7 +45,7 @@ Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:
 * [Documentação oficial do Map Struct](https://mapstruct.org/)
 * [Referência para o padrão arquitetural REST](https://restfulapi.net/)
 
-[Neste link](https://drive.google.com/file/d/1crVPOVl6ok2HeYjh3fjQuGQn2lDZVHrn/view?usp=sharing), seguem os slides apresentados como o roteiro utilizado para o desenvolvimento do projeto da nossa sessão.
+[Neste link](https://drive.google.com/file/d/1crVPOVl6ok2HeYjh3fjQuGQn2lDZVHrn/view?usp=sharing), seguem os slides apresentados durante a aula
 
 
 
