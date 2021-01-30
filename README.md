@@ -2,6 +2,8 @@
 
 Projeto desenvolvido com o intuito de fixar conhecimentos sobre spring boot e modelo arquitetural REST com a criação de uma API de acordo com os tópicos a seguir:
 
+[Neste link](https://peopleapilive.herokuapp.com/), contém o projeto pronto para execução na nuvem
+
 * Setup inicial de projeto com o Spring Boot Initialzr 
 * Criação de modelo de dados para o mapeamento de entidades em bancos de dados
 * Desenvolvimento de operações de gerenciamento de usuários (Cadastro, leitura, atualização e remoção de pessoas de um sistema).
