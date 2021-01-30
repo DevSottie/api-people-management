@@ -1,4 +1,4 @@
-package com.springapi.personapi.entity;
+package com.springapi.personapi.entities;
 
 import com.springapi.personapi.enums.PhoneType;
 import lombok.AllArgsConstructor;

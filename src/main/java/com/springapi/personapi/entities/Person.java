@@ -1,4 +1,4 @@
-package com.springapi.personapi.entity;
+package com.springapi.personapi.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
